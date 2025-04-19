@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ede8d605-bc4d-40f7-831e-62d5ddf9ecfd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="1xrKOcjdTJZ7z0ZDmfaonUb8YfC" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/konstantinohotnik/apps/examples/api-test/apis/routes",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/routes" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-WS-251.23774.424" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ede8d605-bc4d-40f7-831e-62d5ddf9ecfd" name="Default Changelist" comment="" />
+      <created>1631107735201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631107735201</updated>
+      <workItem from="1631107736650" duration="2172000" />
+      <workItem from="1631537011657" duration="2000" />
+      <workItem from="1632125352700" duration="1662000" />
+      <workItem from="1639039674430" duration="1055000" />
+      <workItem from="1639042476585" duration="2321000" />
+      <workItem from="1639049334133" duration="15000" />
+      <workItem from="1639049416127" duration="1600000" />
+      <workItem from="1639423840426" duration="674000" />
+      <workItem from="1639425721915" duration="3000" />
+      <workItem from="1639425797082" duration="1264000" />
+      <workItem from="1639485516007" duration="24000" />
+      <workItem from="1640006696966" duration="537000" />
+      <workItem from="1640008288208" duration="8000" />
+      <workItem from="1640009731526" duration="1771000" />
+      <workItem from="1640017597660" duration="4000" />
+      <workItem from="1641759738810" duration="1820000" />
+      <workItem from="1651755784155" duration="596000" />
+      <workItem from="1651756461587" duration="4129000" />
+      <workItem from="1658836694836" duration="314000" />
+      <workItem from="1674070359258" duration="1826000" />
+      <workItem from="1677785416257" duration="3362000" />
+      <workItem from="1677843136721" duration="342000" />
+      <workItem from="1694417274416" duration="595000" />
+      <workItem from="1712669290179" duration="614000" />
+      <workItem from="1745044849765" duration="22000" />
+      <workItem from="1745044940769" duration="1594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

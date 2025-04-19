@@ -1,0 +1,22 @@
+{
+  "name": "pulsar-api",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www",
+    "dev": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "~1.4.3",
+    "cors": "^2.8.5",
+    "debug": "latest",
+    "express": "~4.16.0",
+    "express-fileupload": "^1.1.6",
+    "http-errors": "latest",
+    "morgan": "~1.9.0",
+    "node-fetch": "^2.7.0",
+    "pdf-to-base64": "^1.0.2",
+    "pug": "^2.0.3"
+  }
+}
